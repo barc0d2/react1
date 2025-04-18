@@ -5,20 +5,20 @@ const ProfileData = [{
   age: 25,
   isOnline: true
 },{
-  name: "dlwlrma", 
-  age: 32,
-  isOnline: false
-},{
-  name: "전진영", 
-  age: 25,
+  name: "김현아", 
+  age: 24,
   isOnline: true
 },{
-  name: "전진영", 
-  age: 25,
+  name: "이주찬", 
+  age: 26,
+  isOnline: true
+},{
+  name: "황인태", 
+  age: 26,
   isOnline: false
 },{
-  name: "전진영", 
-  age: 25,
+  name: "이지은", 
+  age: 32,
   isOnline: false
 },
 ]
